@@ -1,10 +1,12 @@
-Hello there, how old are you?
-What year was python created?
-Who is the creator of python programming language?
-I am a native of offa, in Kwara State
-I love beans and bread very much
-Kaduna is been ravished by bandits, we hope peace is restored soon.
-What are the signs of the Day of Judgment?
-I hope you are finding Python Programming Language interesting
-Tell me a story about yourself in five lines.
-I really want to travel out of Nigeria to a place of greener pasture
+Hello there, how old are you? - What index will return "how old" ?
+story = "Python is awesome" - What is story[2:4] + story[-1] ?
+mystring = "Python rocks" - What is len(mystring)?
+flower = "Rose" What is flower[0] = "P" ; print(flower)? Will it return "Pose"?
+word = "Python is so cool" - What is word[-4:] * 3
+Write a code that returns "pepsi" as "PEPSI"
+Write a code that return "macdonald" as "MacDonald"
+Write a code that returns "MUSHRAH" as "mushrah"
+Using the built-in method, how will you "Hello World" as a list?
+How do i add a "-" in between every character in a string "Python is cool" ?
+How do I remove "Hello" from "Hello World"?
+What is the index of the first character in a string?
