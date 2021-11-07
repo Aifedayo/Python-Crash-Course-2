@@ -7,7 +7,6 @@ present_team_mates = ['mushrah', 'zee', 'noyad', 'codedbashir', 'thesmathub', 's
 if len(present_team_mates) < len(team_mates):
     team_mate = random.sample(present_team_mates, k=(len(present_team_mates)))
 
-
 else:
     team_mate = random.sample(team_mates, k=len(team_mates))
 
