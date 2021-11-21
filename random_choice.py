@@ -11,7 +11,7 @@ else:
     team_mate = random.sample(team_mates, k=len(team_mates))
 
 def python_class(*args):
-    with open('question.txt', mode='r') as my_question:
+    with open('questionData.txt', mode='r') as my_question:
         content = ''.join(my_question.readlines()).split('\n')
         questions = random.sample(content, len(team_mate))
     
